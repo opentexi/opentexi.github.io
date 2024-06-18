@@ -1,6 +1,5 @@
-title: openTexi
-logo: /assets/img/logo.png
-description: a virtual lab for realizing technology and exploring intersections
-show_downloads: true
+logo: images/logo.svg
+description: <p>a <a href="https://www.nature.com/articles/d41586-024-01620-5" target="_blank"><em>virtual lab</em></a> for realizing <a><strong>Te</strong></a>chnology and e<strong>X</strong>ploring <strong>i</strong>ntersections with <em class="blue-text">open-source</em> and <em class="blue-text">open-access</em> materials
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
