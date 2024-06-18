@@ -30,7 +30,7 @@ layout: default
         font-size: 90%;
     }
     .hightlight-text {
-        color: black;
+        color: #267cb9;
     }
 </style>
 
