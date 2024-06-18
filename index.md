@@ -21,7 +21,7 @@ we support [*open science*](https://en.wikipedia.org/wiki/Open_science){:target=
 
 ## member<grey>(s)</grey>
 
-[Hoang-Long Cao](https://hoanglongcao.github.io){:target="_blank"} *(Vrije Universiteit Brussel and Can Tho University)*
+[Hoang-Long Cao](https://hoanglongcao.github.io){:target="_blank"} <small>(Vrije Universiteit Brussel and Can Tho University)</small>
 
 we are looking for *collaboration* aroud the world on the following topics.
 
