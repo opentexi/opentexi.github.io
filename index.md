@@ -16,8 +16,8 @@ we support [*open science*](https://en.wikipedia.org/wiki/Open_science){:target=
 
 ## projects
 
-- [therapists' acceptance of robot-assisted rehabilitation worldwide]()
-- [rice farmers' acceptance of drone applications in Vietnam's Mekong Delta]()
+- [acceptance of robot-assisted rehabilitation in Vietnam (and soon Ethiopia)]()
+- [acceptance of drone applications in Vietnam's Mekong Delta]()
 
 ## member<grey>(s)</grey>
 
@@ -70,4 +70,5 @@ we are looking for *collaboration* aroud the world on the following topics.
 </script>
 <p></p>
 
+contact info: <blue>hoanglongcao (at) gmail (dot) com</blue>
 
