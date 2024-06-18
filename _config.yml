@@ -1,6 +1,6 @@
 title: openTexi
 logo: images/logo.png
-description: <p>a <a href="https://www.nature.com/articles/d41586-024-01620-5" target="_blank">virtual lab</a> for realizing <a><strong>Te</strong></a>chnology and e<strong>x</strong>ploring <strong>i</strong>ntersections with <a href="https://en.wikipedia.org/wiki/Open_science" target="_blank">open</a> resources
+description: <p>a <a href="https://www.nature.com/articles/d41586-024-01620-5" target="_blank">virtual lab</a> for realizing Technology and exploring intersections with open resources
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

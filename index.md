@@ -2,30 +2,37 @@
 layout: default
 ---
 
-## news
+## about
 
-
-## publications
+we support [*open science*](https://en.wikipedia.org/wiki/Open_science){:target="_blank"} by using *open-source* software and *publicly accessible materials* to make research more accessible and affordable for everyone.
 
 
 ## tools
 
+- [templates for collaborative writing in LaTeX with Overleaf]()
+- [making Nature-style graphs with Python and R]()
+- [conducting and reporting statistics in APA style with Python]() 
+- [creating district-level maps in Vietam with PyGMT]()
 
-## members
+## projects
+
+- [therapists' acceptance of robot-assisted rehabilitation worldwide]()
+- [rice farmers' acceptance of drone applications in Vietnam's Mekong Delta]()
+
+## member<grey>(s)</grey>
 
 [Hoang-Long Cao](https://hoanglongcao.github.io){:target="_blank"} *(Vrije Universiteit Brussel and Can Tho University)*
 
-## research topics
+we are looking for *collaboration* aroud the world on the following topics.
 
 <style>
     #word-cloud {
-        font-family: Arial, sans-serif;
     }
     .word {
         display: inline-block;
         margin: 0 10px; /* Only horizontal margin */
         color: black;
-        transition: color 2s;
+        transition: color 1.5s;
         color: #727272;
         font-size: 90%;
     }
@@ -61,3 +68,6 @@ layout: default
     // Highlight a random word every second
     setInterval(highlightRandomWord, 1500);
 </script>
+<p></p>
+
+

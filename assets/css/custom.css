@@ -1,0 +1,17 @@
+a:hover, a:focus {
+  color: #069;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+grey {
+  color: #727272;
+}
+
+blue {
+  color: #267CB9;
+}
+
+black {
+  color: black;
+}
