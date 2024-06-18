@@ -37,7 +37,7 @@ layout: default
 <div id="word-cloud">
     <code class="word">robotics</code>
     <code class="word">artificial intelligence</code>
-    <code class="word">healthcare</code>
+    <code class="word">healthcare applications</code>
     <code class="word">digital media</code>
     <code class="word">human-robot interaction</code>
     <code class="word">human-robot collaboration</code>
