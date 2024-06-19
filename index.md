@@ -70,5 +70,5 @@ we are looking for *collaboration* aroud the world on the following topics.
 </script>
 <p></p>
 
-contact info: <blue>opentexi@gmail.com</blue>
+contact info: <a href="mailto:opentexi@gmail.com" target="_blank">opentexi@gmail.com</a> 
 

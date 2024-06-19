@@ -12,9 +12,9 @@ The main benefit of using LaTeX for writing papers is that it *simplifies switch
 
 If a journal requires a Word document, download your paper as PDF, then open it in Microsoft Word and save it as a `.docx`. If Overleaf doesn't suit your team, [Google Docs](https://docs.google.com/){:target="_blank"} is a good alternative.
 
-### openTexi Overleaf templates
+### openTexi <overleaf>Overleaf</overleaf> templates
 
-You can join [this Overleaf project](https://www.overleaf.com/read/xxshpzxxvfxf#11271f){:target="_blank"}  of us and then copy it into a new project and start your work with the templates.
+You can join [this Overleaf project](https://www.overleaf.com/read/xxshpzxxvfxf#11271f){:target="_blank"}  of us and then [copy it](https://www.overleaf.com/learn/how-to/Copying_a_project){:target="_blank"}  as a new project and start your work with the templates.
 
 - `main.tex` -- main manuscript file
 - other files for submission
