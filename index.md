@@ -9,10 +9,10 @@ we support [*open science*](https://en.wikipedia.org/wiki/Open_science){:target=
 
 ## tools
 
-- [templates for collaborative writing in LaTeX with Overleaf]()
-- [making Nature-style graphs with Python and R]()
-- [conducting and reporting statistics in APA style with Python]() 
-- [creating district-level maps in Vietam with PyGMT]()
+- [templates for collaborative <b>writing</b> in <latex>LaTeX</latex> with <overleaf>Overleaf</overleaf>](tools/20240619-collaborative-writing)
+- [making <b>Nature-style graphs</b> with <python>Python</python> and <r-project>R</r-project>]()
+- [conducting and reporting <b>statistics</b> in APA style with <python>Python</python>]() 
+- [creating district-level <b>maps</b> in Vietnam with <python>PyGMT</python>]()
 
 ## projects
 
@@ -70,5 +70,5 @@ we are looking for *collaboration* aroud the world on the following topics.
 </script>
 <p></p>
 
-contact info: <blue>hoanglongcao (at) gmail (dot) com</blue>
+contact info: <blue>opentexi@gmail.com</blue>
 

@@ -15,3 +15,24 @@ blue {
 black {
   color: black;
 }
+
+latex {
+  color: black;  
+  font-family: 'Serif';
+  font-weight: bold;
+}
+
+overleaf {
+  color: #005A2E;
+  font-weight: bold;
+}
+
+r-project {
+  color: #0f5baa;
+  font-weight: bold;
+}
+
+python {
+  color: #727272;
+  font-weight: bold;
+}
