@@ -34,7 +34,7 @@ we are looking for *collaboration* aroud the world on the following topics.
         color: black;
         transition: color 1.5s;
         color: #727272;
-        font-size: 90%;
+        font-size: 85%;
     }
     .hightlight-text {
         color: #267cb9;
