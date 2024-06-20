@@ -1,6 +1,6 @@
 ---
 layout: post
-date: "17 06 2024"
+date: "19 06 2024"
 title: making Nature-style graphs with <python>Python</python> and <r-project>R</r-project>
 author: hoang-long cao
 tags: [figure, plot, python, r]

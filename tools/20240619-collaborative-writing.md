@@ -1,6 +1,6 @@
 ---
 layout: post
-date: "17 06 2024"
+date: "19 06 2024"
 title: templates for collaborative writing in <latex>LaTeX</latex> with <overleaf>Overleaf</overleaf>
 author: hoang-long cao
 tags: [writing, latex, overleaf]
