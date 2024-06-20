@@ -10,10 +10,10 @@ we support [*open science*](https://en.wikipedia.org/wiki/Open_science){:target=
 ## tools
 
 - [we use <b>open-source software</b> for research and writing](tools/20240620-open-source-software)
-- [templates for collaborative <b>writing</b> in <latex>LaTeX</latex> with <overleaf>Overleaf</overleaf>](tools/20240619-collaborative-writing)
-- [making <b>Nature-style graphs</b> with <python>Python</python> and <r-project>R</r-project>](tools/20240619-nature-plot)
-- conducting and reporting <b>statistics</b> in APA style with <python>Python</python>
-- [creating district-level <b>maps</b> in Vietnam with <python>PyGMT</python>](tools/20240620-vmd-pygmt)
+- [templates for collaborative <b>writing</b> in LaTeX with Overleaf](tools/20240619-collaborative-writing)
+- [making <b>Nature-style graphs</b> with Python and R](tools/20240619-nature-plot)
+- conducting and reporting <b>statistics</b> in APA style with Python
+- [creating district-level <b>maps</b> in Vietnam with PyGMT](tools/20240620-vmd-pygmt)
 
 ## projects
 
