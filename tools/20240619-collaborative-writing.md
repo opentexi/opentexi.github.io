@@ -25,4 +25,5 @@ You can join [this Overleaf project](https://www.overleaf.com/read/xxshpzxxvfxf#
 	- `latexmkrc` -- for track changes
 
 ![openTexi overleaf](/images/openTexi-overleaf-templates.svg)
+*Screenshots of the templates.*
 

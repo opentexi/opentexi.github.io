@@ -10,7 +10,7 @@ we support [*open science*](https://en.wikipedia.org/wiki/Open_science){:target=
 ## tools
 
 - [templates for collaborative <b>writing</b> in <latex>LaTeX</latex> with <overleaf>Overleaf</overleaf>](tools/20240619-collaborative-writing)
-- making <b>Nature-style graphs</b> with <python>Python</python> and <r-project>R</r-project>
+- [making <b>Nature-style graphs</b> with <python>Python</python> and <r-project>R</r-project>](tools/20240619-nature-plot)
 - conducting and reporting <b>statistics</b> in APA style with <python>Python</python>
 - creating district-level <b>maps</b> in Vietnam with <python>PyGMT</python>
 
@@ -23,7 +23,7 @@ we support [*open science*](https://en.wikipedia.org/wiki/Open_science){:target=
 
 [Hoang-Long Cao](https://hoanglongcao.github.io){:target="_blank"} <small>(Vrije Universiteit Brussel and Can Tho University)</small>
 
-we are looking for *collaboration* aroud the world on the following topics.
+we are looking for *collaboration* around the world on the following topics.
 
 <style>
     #word-cloud {
@@ -32,7 +32,7 @@ we are looking for *collaboration* aroud the world on the following topics.
         display: inline-block;
         margin: 0 10px; /* Only horizontal margin */
         color: black;
-        transition: color 1.5s;
+        transition: color 2s;
         color: #727272;
         font-size: 85%;
     }
@@ -66,7 +66,7 @@ we are looking for *collaboration* aroud the world on the following topics.
     }
 
     // Highlight a random word every second
-    setInterval(highlightRandomWord, 1500);
+    setInterval(highlightRandomWord, 2000);
 </script>
 <p></p>
 

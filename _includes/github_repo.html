@@ -1,0 +1,84 @@
+<!-- styles specific to github repo display -->
+<style>
+    #github-repo {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    #github-repo img {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+    }
+
+    #github-repo div {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #github-repo a {
+        font-size: 13px;
+        font-weight: bold;
+        text-decoration: none;
+        color: #267CB9; /* GitHub link color */
+    }
+
+    #github-repo a:hover, #github-repo a:focus {
+        text-decoration: underline;
+    }
+
+    #github-repo p {
+        margin: 0;
+        font-size: 12px;
+    }
+</style>
+
+<!-- dynamic script to fetch and display GitHub repo details -->
+<script>
+async function fetchGitHubRepoDetails(repoUrl) {
+    try {
+        const response = await fetch(repoUrl);
+        const repoData = await response.json();
+
+        displayRepoDetails(repoData);
+    } catch (error) {
+        console.error('Failed to fetch repo details:', error);
+    }
+}
+
+function displayRepoDetails(repoData) {
+    const avatarUrl = repoData.owner.avatar_url;
+    const repoName = repoData.name;
+    const repoUrl = repoData.html_url;
+    const ownerName = repoData.owner.login; // Get the GitHub account username
+    const lastUpdated = new Date(repoData.updated_at);
+    const now = new Date();
+    const timeDiff = now - lastUpdated; // difference in milliseconds
+    const daysDiff = Math.floor(timeDiff / (1000 * 60 * 60 * 24)); // convert milliseconds to days
+
+    const repoContainer = document.getElementById('github-repo');
+    repoContainer.querySelector('#repo-avatar').src = avatarUrl;
+    repoContainer.querySelector('#repo-name').textContent = repoName;
+    repoContainer.querySelector('#repo-name').href = repoUrl;
+
+    if (daysDiff < 30) {
+        updatedText = `${ownerName}. Updated ${daysDiff} days ago`;
+    }
+    else {
+        updatedText = `${ownerName}. Updated on ${lastUpdated.toLocaleDateString()}`;
+    }
+
+    repoContainer.querySelector('#repo-updated').textContent = updatedText;
+}
+</script>
+
+
+<!-- HTML structure for the GitHub repo display -->
+<div id="github-repo">
+    <img id="repo-avatar" src="" alt="Repo Avatar">
+    <div>
+        <a id="repo-name" href="" target="_blank"></a>
+        <p id="repo-updated"></p>
+    </div>
+</div>
