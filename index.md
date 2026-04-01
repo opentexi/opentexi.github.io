@@ -4,11 +4,12 @@ layout: default
 
 ## about
 
-we support [*open science*](https://en.wikipedia.org/wiki/Open_science){:target="_blank"} by using *open-source* software and *publicly accessible materials* to make research more accessible and affordable for everyone.
+we test support [*open science*](https://en.wikipedia.org/wiki/Open_science){:target="_blank"} by using *open-source* software and *publicly accessible materials* to make research more accessible and affordable for everyone.
 
 
 ## tools
 
+### general
 - [we use <b>open-source software</b> for research and writing](tools/20240620-open-source-software)
 - [templates for collaborative <b>writing</b> in LaTeX with Overleaf](tools/20240619-collaborative-writing)
 - [making <b>Nature-style graphs</b> with Python and R](tools/20240619-nature-plot)
