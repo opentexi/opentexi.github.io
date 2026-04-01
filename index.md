@@ -4,7 +4,7 @@ layout: default
 
 ## about
 
-we test support [*open science*](https://en.wikipedia.org/wiki/Open_science){:target="_blank"} by using *open-source* software and *publicly accessible materials* to make research more accessible and affordable for everyone.
+we support [*open science*](https://en.wikipedia.org/wiki/Open_science){:target="_blank"} by using *open-source* software and *publicly accessible materials* to make research more accessible and affordable for everyone.
 
 
 ## tools
