@@ -11,5 +11,6 @@ gem "jekyll-theme-minimal"
 gem "csv"
 gem "base64"
 gem "ostruct"
+gem "jekyll-sass-converter", "~> 2.0"
 
 
